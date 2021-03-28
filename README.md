@@ -1,3 +1,5 @@
+＃ English
+
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72537190/112759710-3317ea00-902f-11eb-8974-89be454bafac.png" align="center" style="width: 100%" />
 </div>  
@@ -53,11 +55,11 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/> <br/>  
+<br/> <br/> 
 
 
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+＃ 日本語
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72537190/112760732-0bc31c00-9033-11eb-998b-4f868de9e0d0.png" align="center" style="width: 100%" />
