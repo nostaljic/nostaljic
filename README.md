@@ -10,9 +10,7 @@
   
 
 - 🐻 I’m currently learning Kubernetes  
-  
 
-🐻 I can speak 🇰🇷🇯🇵🇬🇧  
   
 
 <br/>  
