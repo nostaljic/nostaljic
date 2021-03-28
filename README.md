@@ -1,4 +1,4 @@
-＃ English
+# English
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72537190/112759710-3317ea00-902f-11eb-8974-89be454bafac.png" align="center" style="width: 100%" />
@@ -15,7 +15,7 @@
 
   
 
-<br/>  
+<br/>  <br/> <br/> 
 
 
 ## My Skill Set  
@@ -59,7 +59,7 @@
 <br/> <br/> 
 
 
-＃ 日本語
+# 日本語
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/72537190/112760732-0bc31c00-9033-11eb-998b-4f868de9e0d0.png" align="center" style="width: 100%" />
@@ -68,14 +68,14 @@
 ### <div align="center">🐻 「朴　宰用」と申します。 🐻</div>  
   
 
-- 👨‍🎓  大学生 [DGU CSE](https://cse.dongguk.edu/)  
+- 👨‍🎓大学生 [DGU CSE](https://cse.dongguk.edu/)  
   
 
-- 🐻　クーバネティスを勉強しています。
+- 🐻クーバネティスを勉強しています。
 
   
 
-<br/>  
+<br/> <br/> <br/>  
 
 
 ## 技術スタッフ
